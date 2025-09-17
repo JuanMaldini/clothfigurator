@@ -1,0 +1,225 @@
+[
+  {
+    "collection-name": "Impact",
+    "collection-image": "https://s3.mayerfabrics.com/medialibrary/1569/impact-collection-page-list-image.jpg",
+    "subcollection": [
+      {
+        "subcollection-name": "Fuse",
+        "subcollection-description": "Fuse is meticulously crafted with exquisite detail, employing a variety of yarn types to introduce captivating texture and dimension. Through the skillful blending of different yarn textures, it forms a unique pattern featuring both a linear broken stripe and geometric blocks. This intriguing fabric is available in a palette of 5 distinctive multi-color colorways.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/804-004/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Berry",     "variation-pattern": "804-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/804-001/image/thumbnail" },
+          { "variation-name": "Jungle",    "variation-pattern": "804-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/804-003/image/thumbnail" },
+          { "variation-name": "Oceanic",   "variation-pattern": "804-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/804-004/image/thumbnail" },
+          { "variation-name": "Piano",     "variation-pattern": "804-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/804-006/image/thumbnail" },
+          { "variation-name": "Parchment", "variation-pattern": "804-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/804-007/image/thumbnail" }
+        ]
+      }
+    ]
+  },
+  {
+    "collection-name": "Hyphyn",
+    "collection-image": "https://s3.mayerfabrics.com/medialibrary/1568/impact-collection-page-main-image.jpg",
+    "subcollection": [
+      {
+        "subcollection-name": "Universe",
+        "subcollection-description": "Universe, a biodegradable vinyl fabric that evokes the grandeur of the cosmos. With a network of constellation-inspired pattern, reminiscent of the organic swirls of nautilus shells, starbursts, or blooming flowers, Universe creates a sense of wonder and tranquility. The gentle ebb and flow of the design adds a touch of organic elegance. Available in 7 serene, tone-on-tone colorways inspired by nature's palette, Universe is a harmonious blend of style and sustainability.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/UN-001/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Earth",    "variation-pattern": "UN-000", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/UN-000/image/thumbnail" },
+          { "variation-name": "Coral",    "variation-pattern": "UN-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/UN-001/image/thumbnail" },
+          { "variation-name": "Fern",     "variation-pattern": "UN-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/UN-003/image/thumbnail" },
+          { "variation-name": "Isle",     "variation-pattern": "UN-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/UN-004/image/thumbnail" },
+          { "variation-name": "Pacific",  "variation-pattern": "UN-014", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/UN-014/image/thumbnail" },
+          { "variation-name": "Mineral",  "variation-pattern": "UN-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/UN-006/image/thumbnail" },
+          { "variation-name": "Orchid",   "variation-pattern": "UN-008", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/UN-008/image/thumbnail" }
+        ]
+      }
+    ]
+  },
+  {
+    "collection-name": "Keystone",
+    "collection-image": "https://s3.mayerfabrics.com/medialibrary/1520/keystone-collection-page-hero-image.jpg",
+    "subcollection": [
+      {
+        "subcollection-name": "Chev",
+        "subcollection-description": "Chev's stunning menswear texture and extensive 16-color palette offer a touch of refined luxury, while its innovative design prioritizes sustainability. With over 50% of its polymer derived from bio-attributed forestry materials and a backing made entirely from recycled PET bottles, Chev represents a significant advancement in eco-conscious interior design.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/CV-008/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Malt",     "variation-pattern": "CV-000", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-000/image/thumbnail" },
+          { "variation-name": "Bison",    "variation-pattern": "CV-010", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-010/image/thumbnail" },
+          { "variation-name": "Wheat",    "variation-pattern": "CV-002", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-002/image/thumbnail" },
+          { "variation-name": "Willow",   "variation-pattern": "CV-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-003/image/thumbnail" },
+          { "variation-name": "Pesto",    "variation-pattern": "CV-013", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-013/image/thumbnail" },
+          { "variation-name": "Imperial", "variation-pattern": "CV-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-004/image/thumbnail" },
+          { "variation-name": "Hydro",    "variation-pattern": "CV-014", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-014/image/thumbnail" },
+          { "variation-name": "Jeans",    "variation-pattern": "CV-024", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-024/image/thumbnail" },
+          { "variation-name": "Airy",     "variation-pattern": "CV-034", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-034/image/thumbnail" },
+          { "variation-name": "Ocean",    "variation-pattern": "CV-044", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-044/image/thumbnail" },
+          { "variation-name": "Pepper",   "variation-pattern": "CV-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-006/image/thumbnail" },
+          { "variation-name": "Cement",   "variation-pattern": "CV-016", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-016/image/thumbnail" },
+          { "variation-name": "Linen",    "variation-pattern": "CV-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-007/image/thumbnail" },
+          { "variation-name": "Marble",   "variation-pattern": "CV-017", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-017/image/thumbnail" },
+          { "variation-name": "Raisin",   "variation-pattern": "CV-008", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-008/image/thumbnail" },
+          { "variation-name": "Harvest",  "variation-pattern": "CV-009", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/CV-009/image/thumbnail" }
+        ]
+      },
+      {
+        "subcollection-name": "Pavilion",
+        "subcollection-description": "Combine beauty and peace of mind with Pavilion, a phthalate-free vinyl upholstery. The graceful, organic pattern, inspired by falling leaves, brings natural tranquility to interiors. Available in a palette of 6 serene, nature-inspired colors, Pavilion offers both aesthetic appeal and a connection to the natural world.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/PV-008/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Wheat",      "variation-pattern": "PV-002", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PV-002/image/thumbnail" },
+          { "variation-name": "Eucalyptus", "variation-pattern": "PV-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PV-003/image/thumbnail" },
+          { "variation-name": "Neptune",    "variation-pattern": "PV-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PV-004/image/thumbnail" },
+          { "variation-name": "Nightfall",  "variation-pattern": "PV-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PV-006/image/thumbnail" },
+          { "variation-name": "Sisal",      "variation-pattern": "PV-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PV-007/image/thumbnail" },
+          { "variation-name": "Elderberry", "variation-pattern": "PV-008", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PV-008/image/thumbnail" }
+        ]
+      }
+    ]
+  },
+  {
+    "collection-name": "Vitality",
+    "collection-image": "https://s3.mayerfabrics.com/medialibrary/1443/vitaliaty-collection-page-hero-image.jpg",
+    "subcollection": [
+      {
+        "subcollection-name": "Nimble",
+        "subcollection-description": "Experience the texture and performance of Nimble. This pattern's soft hand and heathered chenille construction provide a sense of harmony and soothing comfort. Available in 10 versatile colors, Nimble is the perfect choice for healthcare settings. Its Crypton finish and moisture barrier backing ensure durability and easy maintenance, making it an ideal solution for high-traffic environments.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/WC723-004/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Obsidian",    "variation-pattern": "WC723-000", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-000/image/thumbnail" },
+          { "variation-name": "Ruby",        "variation-pattern": "WC723-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-001/image/thumbnail" },
+          { "variation-name": "Citrine",     "variation-pattern": "WC723-002", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-002/image/thumbnail" },
+          { "variation-name": "Emerald",     "variation-pattern": "WC723-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-003/image/thumbnail" },
+          { "variation-name": "Jade",        "variation-pattern": "WC723-013", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-013/image/thumbnail" },
+          { "variation-name": "Sapphire",    "variation-pattern": "WC723-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-004/image/thumbnail" },
+          { "variation-name": "Aquamarine",  "variation-pattern": "WC723-014", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-014/image/thumbnail" },
+          { "variation-name": "Pearl",       "variation-pattern": "WC723-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-007/image/thumbnail" },
+          { "variation-name": "Cobblestone", "variation-pattern": "WC723-017", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-017/image/thumbnail" },
+          { "variation-name": "Amber",       "variation-pattern": "WC723-009", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC723-009/image/thumbnail" }
+        ]
+      }
+    ]
+  },
+  {
+    "collection-name": "Botanique",
+    "collection-image": "https://s3.mayerfabrics.com/medialibrary/1375/botanique-collection-page-main-banner.jpg",
+    "subcollection": [
+      {
+        "subcollection-name": "Flora",
+        "subcollection-description": "As if floating on a pond, these graceful small floral buds dance effortlessly on a ground of subtle textured weaves. Flora proves that romance and performance can be beautifully intertwined.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/801-001/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Scarlet",      "variation-pattern": "801-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/801-001/image/thumbnail" },
+          { "variation-name": "Mustard Seed", "variation-pattern": "801-002", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/801-002/image/thumbnail" },
+          { "variation-name": "Bluegrass",    "variation-pattern": "801-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/801-003/image/thumbnail" },
+          { "variation-name": "Clover",       "variation-pattern": "801-013", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/801-013/image/thumbnail" },
+          { "variation-name": "Cornflower",   "variation-pattern": "801-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/801-004/image/thumbnail" },
+          { "variation-name": "Vapor",        "variation-pattern": "801-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/801-006/image/thumbnail" }
+        ]
+      },
+      {
+        "subcollection-name": "Sanctuary",
+        "subcollection-description": "Tranquil and at peace, Sanctuary combines the softness of chenille with an undulated weave that reminds us of a place of solace and refuge. Inspired by colors found in nature, this abundant palette of 15 colors is reminiscent of fresh flowers and fauna.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/643-001/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Hazelnut",   "variation-pattern": "643-000", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-000/image/thumbnail" },
+          { "variation-name": "Taupe",      "variation-pattern": "643-010", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-010/image/thumbnail" },
+          { "variation-name": "Rosewood",   "variation-pattern": "643-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-001/image/thumbnail" },
+          { "variation-name": "Bordeaux",   "variation-pattern": "643-011", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-011/image/thumbnail" },
+          { "variation-name": "Honey",      "variation-pattern": "643-002", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-002/image/thumbnail" },
+          { "variation-name": "Palmetto",   "variation-pattern": "643-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-003/image/thumbnail" },
+          { "variation-name": "Evergreen",  "variation-pattern": "643-013", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-013/image/thumbnail" },
+          { "variation-name": "Atlantis",   "variation-pattern": "643-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-004/image/thumbnail" },
+          { "variation-name": "Riptide",    "variation-pattern": "643-014", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-014/image/thumbnail" },
+          { "variation-name": "Prussian",   "variation-pattern": "643-024", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-024/image/thumbnail" },
+          { "variation-name": "Orchid",     "variation-pattern": "643-005", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-005/image/thumbnail" },
+          { "variation-name": "Dew",        "variation-pattern": "643-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-006/image/thumbnail" },
+          { "variation-name": "Platinum",   "variation-pattern": "643-016", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-016/image/thumbnail" },
+          { "variation-name": "Meteorite",  "variation-pattern": "643-026", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-026/image/thumbnail" },
+          { "variation-name": "Ivory",      "variation-pattern": "643-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/643-007/image/thumbnail" }
+        ]
+      }
+    ]
+  },
+  {
+    "collection-name": "SEAQUAL INITIATIVE",
+    "collection-image": "https://s3.mayerfabrics.com/medialibrary/1286/seaqual-initiative-banner.jpg",
+    "subcollection": [
+      {
+        "subcollection-name": "Denali",
+        "subcollection-description": "The Denali pattern is a symphony of geometric precision, its clean lines and stark contrasts demands attention and leaves a lasting impression. This is a fabric that doesn't shy away; it commands the spotlight and thrives in its boldness.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/334-014/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Crimson",     "variation-pattern": "334-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-001/image/thumbnail" },
+          { "variation-name": "Forest",      "variation-pattern": "334-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-003/image/thumbnail" },
+          { "variation-name": "Regal Blue",  "variation-pattern": "334-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-004/image/thumbnail" },
+          { "variation-name": "Water",       "variation-pattern": "334-014", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-014/image/thumbnail" },
+          { "variation-name": "Ink",         "variation-pattern": "334-024", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-024/image/thumbnail" },
+          { "variation-name": "Thistle",     "variation-pattern": "334-005", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-005/image/thumbnail" },
+          { "variation-name": "Night",       "variation-pattern": "334-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-006/image/thumbnail" },
+          { "variation-name": "Snow",        "variation-pattern": "334-016", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-016/image/thumbnail" },
+          { "variation-name": "Bone",        "variation-pattern": "334-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-007/image/thumbnail" },
+          { "variation-name": "Clementine",  "variation-pattern": "334-009", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/334-009/image/thumbnail" }
+        ]
+      },
+      {
+        "subcollection-name": "Leoni",
+        "subcollection-description": "Leoni is meticulously crafted in seven color combinations that echo the seasons of the year. Lush spring blossoms melt into the vibrant greens of summer, then surrender to the fiery embrace of autumn. Let Leoni wrap your furniture and discover the breathtaking beauty that blooms.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/335-002/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Briar",       "variation-pattern": "335-000", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/335-000/image/thumbnail" },
+          { "variation-name": "Russet",      "variation-pattern": "335-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/335-001/image/thumbnail" },
+          { "variation-name": "Honeysuckle", "variation-pattern": "335-002", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/335-002/image/thumbnail" },
+          { "variation-name": "Eucalyptus",  "variation-pattern": "335-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/335-003/image/thumbnail" },
+          { "variation-name": "Blueberry",   "variation-pattern": "335-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/335-004/image/thumbnail" },
+          { "variation-name": "Shadow",      "variation-pattern": "335-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/335-006/image/thumbnail" },
+          { "variation-name": "Fossil",      "variation-pattern": "335-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/335-007/image/thumbnail" }
+        ]
+      }
+    ]
+  },
+  {
+    "collection-name": "Prestige",
+    "collection-image": "https://s3.mayerfabrics.com/medialibrary/1187/prestige-collectionpage-mainbanner.jpg",
+    "subcollection": [
+      {
+        "subcollection-name": "Fitz",
+        "subcollection-description": "A detailed interpretation of Art Deco’s decorative scallops, Fitz is constructed of silky chenille fill yarns and a lustrous warp that defines each unique shell. Resulting in a glamorous textured and timeless scalloped pattern available in 10 exquisite colors.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/WC931-007/image/thumbnail?size=350",
+        "variations": [
+          { "variation-name": "Abalone",    "variation-pattern": "WC931-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-007/image/thumbnail" },
+          { "variation-name": "Shore",      "variation-pattern": "WC931-017", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-017/image/thumbnail" },
+          { "variation-name": "Bellini",    "variation-pattern": "WC931-011", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-011/image/thumbnail" },
+          { "variation-name": "Seafoam",    "variation-pattern": "WC931-003", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-003/image/thumbnail" },
+          { "variation-name": "Cobblestone","variation-pattern": "WC931-000", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-000/image/thumbnail" },
+          { "variation-name": "Aubergine",  "variation-pattern": "WC931-005", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-005/image/thumbnail" },
+          { "variation-name": "Kelp",       "variation-pattern": "WC931-013", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-013/image/thumbnail" },
+          { "variation-name": "Shark Fin",  "variation-pattern": "WC931-006", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-006/image/thumbnail" },
+          { "variation-name": "Sunset",     "variation-pattern": "WC931-001", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-001/image/thumbnail" },
+          { "variation-name": "Atlantis",   "variation-pattern": "WC931-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/WC931-004/image/thumbnail" }
+        ]
+      }
+    ]
+  },
+  {
+    "collection-name": "Paradox",
+    "collection-image": "https://images.mayerfabrics.com/item/PX-002/image?height=768&quality=85",
+    "subcollection": [
+      {
+        "subcollection-name": "Paradox",
+        "subcollection-description": "Description.",
+        "subcollection-image": "https://images.mayerfabrics.com/item/PX-002/image?height=768&quality=85",
+        "variations": [
+          { "variation-name": "Harvest",    "variation-pattern": "PX-002", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PX-002/image/thumbnail" },
+          { "variation-name": "Iceberg",    "variation-pattern": "PX-004", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PX-004/image/thumbnail" },
+          { "variation-name": "Bluestone",  "variation-pattern": "PX-014", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PX-014/image/thumbnail" },
+          { "variation-name": "Patina",     "variation-pattern": "PX-024", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PX-024/image/thumbnail" },
+          { "variation-name": "Cloud",      "variation-pattern": "PX-007", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PX-007/image/thumbnail" },
+          { "variation-name": "Plumberry",  "variation-pattern": "PX-008", "variation-image-thumbnail": "https://images.mayerfabrics.com/item/PX-008/image/thumbnail" }
+        ]
+      }
+    ]
+  }
+]
